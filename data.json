@@ -1,0 +1,14 @@
+[
+	{
+		"name": "SOLVE THE CUBE",
+		"description": "Learn to solve the Rubik's Cube using beginner-friendly techniques.",
+		"note": "This course includes step-by-step guidance for beginners.",
+		"url": "https://example.com/solve-the-cube"
+	},
+	{
+		"name": "ADVANCED CUBE TECHNIQUES",
+		"description": "Master advanced methods and algorithms for speed solving.",
+		"note": "Ideal for those who have completed the beginner course.",
+		"url": "https://example.com/advanced-cube"
+	}
+]

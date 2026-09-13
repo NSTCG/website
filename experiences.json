@@ -1,0 +1,23 @@
+[
+	{
+		"image": "https://cdn.discordapp.com/attachments/983080885475766283/1347194105469599785/image.png?ex=67caefc8&is=67c99e48&hm=65b31075acc614b76666ae7488b4fc326e9031ff7e3589c0502d3c92de1cc151&",
+		"name": "Virtual Reality Adventure",
+		"description": "Immerse yourself in breathtaking VR landscapes and interactive gameplay.",
+		"url": "https://example.com/vr-adventure",
+		"tags": ["vr", "game"]
+	},
+	{
+		"image": "https://cdn.discordapp.com/attachments/983080885475766283/1347194105469599785/image.png?ex=67caefc8&is=67c99e48&hm=65b31075acc614b76666ae7488b4fc326e9031ff7e3589c0502d3c92de1cc151&",
+		"name": "Augmented Reality Demo",
+		"description": "A cutting-edge demonstration blending digital elements with the real world.",
+		"url": "https://example.com/ar-demo",
+		"tags": ["ar", "demo"]
+	},
+	{
+		"image": "https://cdn.discordapp.com/attachments/983080885475766283/1347194105469599785/image.png?ex=67caefc8&is=67c99e48&hm=65b31075acc614b76666ae7488b4fc326e9031ff7e3589c0502d3c92de1cc151&",
+		"name": "Indie Game Showcase",
+		"description": "Celebrating innovative design and storytelling from indie game creators.",
+		"url": "https://example.com/indie-game",
+		"tags": ["game", "demo"]
+	}
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "chroma-the-last-unicorn",
+    "title": "Chroma: The Last Unicorn — My JS13K Journey",
+    "subtitle": "Telling a story of grief, imagination, and procedural beauty in <13KB for JS13k Games.",
+    "slug": "blog-chroma.html",
+    "featured": true,
+    "date": "September 13, 2026",
+    "readTime": "5 min read",
+    "author": "Nithin Steven",
+    "authorRole": "WebXR & Indie Game Developer",
+    "category": "Game Dev & WebXR",
+    "tags": ["WebXR", "JS13k", "GLSL Shaders", "Procedural Grass", "Storytelling", "AI Automation"],
+    "image": "static/assets/images/chroma-banner.jpg",
+    "summary": "I always wanted to try the JS13k challenge... Now I am so happy to finish it! Here is the story, procedural grass strategies, and sub-13KB engineering behind Chroma: The Last Unicorn.",
+    "excerpt": "We walk into a dream of a developer who lost his wife in an accident by the cliff. Maya guides him in a dream, letting him bring back the colors from the rainbow to his life and see colors again."
+  },
+  {
+    "id": "webxr-atmosphere-shaders",
+    "title": "Crafting 140 FPS Atmospheric Day-Night Cycles in WebXR",
+    "subtitle": "Optimizing volumetric skyboxes, ambient lighting, and particle systems for mobile VR headsets.",
+    "slug": "index.html#pricing-plans",
+    "featured": false,
+    "date": "August 20, 2026",
+    "readTime": "4 min read",
+    "author": "Nithin Steven",
+    "authorRole": "WebXR Developer",
+    "category": "Graphics & Shaders",
+    "tags": ["WebXR", "Shaders", "Wonderland Engine", "Optimization"],
+    "image": "static/assets/images/daynight.jpg",
+    "summary": "Who needs heavyweight real-time baked lighting when custom procedural vertex & fragment shaders can achieve 140 FPS in standalone headsets? Here is our approach to zero-lag WebXR atmospheres.",
+    "excerpt": "Lighting in standalone VR is notorious for consuming draw calls and fill rate. By moving atmosphere calculations into mathematical ray-scatter approximations in GLSL, we keep peak 120-140 FPS."
+  },
+  {
+    "id": "speedcubing-mind-patterns",
+    "title": "The Speedcuber's Brain: Pattern Recognition & Algorithmic Reflexes",
+    "subtitle": "How solving the Rubik's Cube under 10 seconds trains your mental muscle memory and problem-solving intuition.",
+    "slug": "index.html#pricing-plans",
+    "featured": false,
+    "date": "July 15, 2026",
+    "readTime": "5 min read",
+    "author": "Nithin Steven",
+    "authorRole": "Speedcuber & WCA Competitor",
+    "category": "Speedcubing",
+    "tags": ["Speedcubing", "WCA", "Cognitive Science", "Algorithms"],
+    "image": "static/assets/images/combo.png",
+    "summary": "From CFOP cross lookaheads to full OLL/PLL muscle memory, explore how speedcubing develops lightning-fast spatial orientation and split-second decision making.",
+    "excerpt": "Speedcubing isn't about calculating 20 moves ahead on a board—it is about high-speed pattern chunking and tactile feedback loops executing within 400 milliseconds."
+  }
+]
